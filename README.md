@@ -1,6 +1,6 @@
 # qb-customcarmods
 
-Usabale items for car parts. 
+Usabale items for car parts. Add assets images to your qb-inventory folder.
 
 # Preview:
 
