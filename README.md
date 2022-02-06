@@ -1,6 +1,6 @@
 # qb-customcarmods
 
-Usabale items for car parts. Add assets images to your qb-inventory folder.
+Usabale items for car parts. Add assets images to your qb-inventory folder. You need to add the items to qb-core > shared > items.lua first. 
 
 # Preview:
 
